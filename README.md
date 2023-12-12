@@ -18,3 +18,7 @@ Estático: mientras que los jugadores deliberan las acciones que van realizar, n
 
 Discreto: hay número finito de posibilidades a realizar.
 
+## Estrutura del agente
+
+![Modelo inteligencia artificial](./doc/IA_modelo.png)
+
